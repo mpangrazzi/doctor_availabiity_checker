@@ -1,0 +1,15 @@
+{
+  "name": "doctor_availability_check",
+  "version": "0.0.1",
+  "description": "",
+  "main": "index.js",
+  "author": "Michele Pangrazzi <xmikex83@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "npmlog": "0.0.6",
+    "request": "~2.34.0",
+    "async": "~0.2.10",
+    "jsdom": "~0.10.1",
+    "zombie": "~2.0.0-alpha30"
+  }
+}
